@@ -14,6 +14,5 @@ We've used the following methods for the to complete our analysis:
 ## Resource
 
  * [crypto_data.csv](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_18/crypto_data.csv)
- * [crypto_clustering.ipynb](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_18/crypto_clustering_starter_code.ipynb)
-
+ * [crypto_starter_code.ipynb](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_18/crypto_clustering_starter_code.ipynb)
 
