@@ -10,3 +10,7 @@ We've used the following methods for the to complete our analysis:
   * reducing the data dimension using Principal Component Analysis,
   * clustering cryptocurrencies using K-Means,
   * visualizing classification results with 2D and 3D scatter plots.
+
+## Resource
+
+ * [crypto_data.csv](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_18/crypto_data.csv)
